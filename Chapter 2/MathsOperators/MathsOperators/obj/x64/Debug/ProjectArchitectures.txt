@@ -1,0 +1,1 @@
+D:\Code Repository\Github\StepByStep\Chapter 2\MathsOperators\MathsOperators\MathsOperators.csproj;x64
